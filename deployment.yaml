@@ -14,7 +14,7 @@ spec:
         name: node-app
     spec:
       containers:
-      - image: 4141817/kube_node_app:2b5467437ca8e13106ac5426ac39c0a0bf2115ae
+      - image: 4141817/kube_node_app:30e4e7b37bd63937bb445b339bd86b7a923a2fa8
         name: node-app-container    
         ports:
         - containerPort: 3000
