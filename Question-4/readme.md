@@ -59,4 +59,8 @@ rm $backup_file
 ```
 
 - Scaling Pods using [HPA](https://github.com/Muhammad-Irfan324/testing-repo/blob/kube-manifest/hpa.yaml)
-- 
+- kubect get HPA command
+![HPA](https://github.com/Muhammad-Irfan324/testing-repo/blob/main/Question-4/Selection_371.png)
+- on Putting load
+![Load1](https://github.com/Muhammad-Irfan324/testing-repo/blob/main/Question-4/Selection_372.png)
+![Load2](https://github.com/Muhammad-Irfan324/testing-repo/blob/main/Question-4/Selection_373.png)  
