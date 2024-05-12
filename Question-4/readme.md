@@ -58,6 +58,7 @@ openssl enc -aes-256-cbc -salt -in $backup_file -out $backup_file.enc -k $ENCRYP
 rm $backup_file
 ```
 
+- metrics-server Installed for HPA
 - Scaling Pods using [HPA](https://github.com/Muhammad-Irfan324/testing-repo/blob/kube-manifest/hpa.yaml)
 - kubect get HPA command
 ![HPA](https://github.com/Muhammad-Irfan324/testing-repo/blob/main/Question-4/Selection_371.png)
