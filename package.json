@@ -1,0 +1,21 @@
+{
+    "name": "docker_web_app",
+    "version": "1.0.0",
+    "description": "Node.js on Docker",
+    "author": "Muhammad Irfan",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "jest --bail --detectOpenHandles --runInBand"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "jest": "^28.0.1",
+      "supertest": "^6.1.3"
+    },
+    "devDependencies": {
+      "jest": "^28.0.1",
+      "supertest": "^6.1.3"
+    }
+  }
+  
